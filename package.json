@@ -6,7 +6,7 @@
     "version": "3.3.8"
   },
   "scripts": {
-    "dep": "npm i hexo-cli",
+    "dep": "npm i hexo-cli -g",
     "start": "npm run dep | hexo serve"
   },
   "dependencies": {
