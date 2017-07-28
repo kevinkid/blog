@@ -6,7 +6,7 @@
     "version": "3.3.8"
   },
   "scripts": {
-    "start": "hexo serve -p 50071"
+    "start": "hexo serve"
   },
   "dependencies": {
     "hexo": "^3.2.0",
